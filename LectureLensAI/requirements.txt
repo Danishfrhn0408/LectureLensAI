@@ -1,0 +1,7 @@
+
+streamlit
+requests
+python-dotenv
+qdrant-client
+fastembed
+lyzr-adk
